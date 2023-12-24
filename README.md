@@ -1,5 +1,5 @@
 # Wine Origination Prediction using baseline, bagging, boosting, and stacked models.
-![My Skills](https://skillicons.dev/icons?i=python)
+![My Skills](https://skillicons.dev/icons?i=python,github)
 
 ## Introduction
 This project delves into the domain of oenology, the science of wine and winemaking, to predict the region of origin for wines based on their chemical composition. By constructing and comparing fourteen different models across various ensemble methods—bagging, boosting, and stacking—this work aims to achieve the highest accuracy in regional prediction.

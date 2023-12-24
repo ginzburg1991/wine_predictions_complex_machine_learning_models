@@ -1,0 +1,5 @@
+## Run this code to obtain dataset
+  
+import sklearn.datasets
+wine = sklearn.datasets.load_wine(return_X_y=False, as_frame=False)
+wine

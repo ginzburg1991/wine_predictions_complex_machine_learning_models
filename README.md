@@ -1,1 +1,1 @@
-# Wine Prediction using baseline(Random Forest, kNN, SVC, Logistic Regression), bagging(Random Forest, kNN, SVC, Logistic Regression), boosting(Ada Boost, Gradient Boost, XG Boost, Ensemble), and stacked models(Random Forest, kNN, SVC, Logistic Regression input into a Logistic Regression meta-classifier)(Grid Search hyperparameters: RandomForestClassifier, KNeighbors Classifier, Decision Tree Classifier, and LogisticRegression).
+# Wine Origination Prediction using baseline, bagging, boosting, and stacked models.
